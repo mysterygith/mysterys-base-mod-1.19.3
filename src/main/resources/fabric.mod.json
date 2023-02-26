@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "mbase",
+	"version": "${version}",
+	"name": "Mystery's Base Mod",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Mystery"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/mbase/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"mystery.mbase.MBase"
+		],
+		"client": [
+			"mystery.mbase.MBaseClient"
+		],
+		"fabric-datagen": [
+			"mystery.mbase.MBaseDataGenerator"
+		]
+	},
+	"mixins": [
+		"mbase.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.14",
+		"minecraft": "~1.19.3",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
