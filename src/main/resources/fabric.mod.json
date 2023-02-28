@@ -3,7 +3,7 @@
 	"id": "mbase",
 	"version": "${version}",
 	"name": "Mystery's Base Mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Adds all of the basics for Mystery's Expansion Mod Series",
 	"authors": [
 		"Mystery"
 	],

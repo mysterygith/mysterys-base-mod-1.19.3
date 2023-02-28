@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "mbase:block/steel_block" }
+  }
+}
