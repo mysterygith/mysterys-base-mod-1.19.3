@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 300,
+  "experience": 3.0,
+  "group": "steel",
+  "ingredient": {
+    "item": "mbase:pig_iron"
+  },
+  "result": "mbase:steel_ingot"
+}

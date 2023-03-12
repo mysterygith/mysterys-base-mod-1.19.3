@@ -1,0 +1,7 @@
+// 1.19.3	2023-03-12T12:01:04.6962066	Mystery's Base Mod/Recipes
+bc0c27daeae9dd09e1445cf0a3d410963eddc8e8 data\mbase\recipes\steel_ingot_from_smelting_pig_iron.json
+b681e09cc318c164912094e67e6ac8747144a8d5 data\mbase\advancements\recipes\misc\steel_ingot_from_smelting_pig_iron.json
+446586ce67045aa15beb0230888fe2ad19f7d60c data\mbase\advancements\recipes\building_blocks\steel_ingot.json
+a02f3b43a920af6bd52dd3b822d9ea964e7f7b07 data\mbase\recipes\steel_block.json
+1ae6dcdf6789b952404dacf5c24d0af253fcc1eb data\mbase\advancements\recipes\misc\steel_block.json
+27567e7bfbd109da2231a426813c86ce2b88d2cb data\mbase\recipes\steel_ingot.json

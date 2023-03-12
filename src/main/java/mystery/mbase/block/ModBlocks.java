@@ -17,6 +17,7 @@ import net.minecraft.util.Identifier;
 
 
 public class ModBlocks {
+    // Blocks
     public static final Block STEEL_BLOCK = registerBlock("steel_block",
             new Block(FabricBlockSettings.of(Material.METAL).strength(4.0f).requiresTool()), ItemGroups.BUILDING_BLOCKS);
 

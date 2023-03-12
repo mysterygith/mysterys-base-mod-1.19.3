@@ -13,6 +13,7 @@ public class MBase implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		// Initializing
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
 
