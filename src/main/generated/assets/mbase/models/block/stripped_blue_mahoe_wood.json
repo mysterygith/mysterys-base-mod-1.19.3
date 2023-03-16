@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "mbase:block/stripped_blue_mahoe_log",
+    "side": "mbase:block/stripped_blue_mahoe_log"
+  }
+}

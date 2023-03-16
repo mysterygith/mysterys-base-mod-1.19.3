@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mbase:blue_mahoe_log"
+    }
+  ],
+  "result": {
+    "item": "mbase:blue_mahoe_planks",
+    "count": 4
+  }
+}

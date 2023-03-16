@@ -12,6 +12,6 @@ public class ModLootTableGenerator extends FabricBlockLootTableProvider {
     @Override
     // Loot Table Generator
     public void generate() {
-        addDrop(ModBlocks.STEEL_BLOCK);
+
     }
 }

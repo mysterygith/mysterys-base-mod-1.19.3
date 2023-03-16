@@ -1,11 +1,18 @@
 {
   "item.mbase.steel_ingot": "Steel Ingot",
-  "item.mbase.banana": "Banana",
+  "block.mbase.steel_block": "Block of Steel",
   "item.mbase.pig_iron": "Pig Iron",
+  "block.mbase.gold_anvil": "Golden Anvil",
+
+  "item.mbase.banana": "Banana",
   "item.mbase.banana_bread": "Banana Bread",
   "item.mbase.pineapple": "Pineapple",
 
-  "block.mbase.steel_block": "Block of Steel"
-
-
+  "block.mbase.blue_mahoe_log": "Blue Mahoe Log",
+  "block.mbase.blue_mahoe_wood": "Blue Mahoe Wood",
+  "block.mbase.blue_mahoe_planks": "Blue Mahoe Planks",
+  "block.mbase.blue_mahoe_sapling": "Blue Mahoe Sapling",
+  "block.mbase.stripped_blue_mahoe_log": "Stripped Blue Mahoe Log",
+  "block.mbase.stripped_blue_mahoe_wood": "Stripped Blue Mahoe Wood",
+  "block.mbase.blue_mahoe_leaves": "Blue Mahoe Leaves"
 }

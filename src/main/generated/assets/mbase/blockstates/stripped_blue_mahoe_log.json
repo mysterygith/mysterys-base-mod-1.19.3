@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "mbase:block/stripped_blue_mahoe_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "mbase:block/stripped_blue_mahoe_log"
+    },
+    "axis=z": {
+      "model": "mbase:block/stripped_blue_mahoe_log_horizontal",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mbase:blue_mahoe_log",
+    "mbase:blue_mahoe_wood",
+    "mbase:stripped_blue_mahoe_log",
+    "mbase:stripped_blue_mahoe_wood"
+  ]
+}

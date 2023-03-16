@@ -18,6 +18,15 @@ public class ModModelProvider extends FabricModelProvider {
     public void generateBlockStateModels(BlockStateModelGenerator blockStateModelGenerator) {
         blockStateModelGenerator.registerCubeAllModelTexturePool(ModBlocks.STEEL_BLOCK);
 
+        blockStateModelGenerator.registerLog(ModBlocks.BLUE_MAHOE_LOG).log(ModBlocks.BLUE_MAHOE_LOG).wood(ModBlocks.BLUE_MAHOE_WOOD);
+        blockStateModelGenerator.registerLog(ModBlocks.STRIPPED_BLUE_MAHOE_LOG).log(ModBlocks.STRIPPED_BLUE_MAHOE_LOG).wood(ModBlocks.STRIPPED_BLUE_MAHOE_WOOD);
+
+        blockStateModelGenerator.registerCubeAllModelTexturePool(ModBlocks.BLUE_MAHOE_PLANKS);
+        blockStateModelGenerator.registerCubeAllModelTexturePool(ModBlocks.BLUE_MAHOE_LEAVES);
+
+        blockStateModelGenerator.registerTintableCrossBlockState(ModBlocks.BLUE_MAHOE_SAPLING, BlockStateModelGenerator.TintType.NOT_TINTED);
+
+
     }
 
     @Override
