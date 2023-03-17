@@ -1,7 +1,15 @@
 {
   "variants": {
-    "": {
-      "model": "mbase:block/blue_mahoe_leaves"
+    "":
+    [
+    {
+    "model": "mbase:block/blue_mahoe_leaves"
+    },
+
+    {
+    "model": "mbase:block/blue_mahoe_leaves1"
     }
+      ]
+
   }
 }
